@@ -1,0 +1,8 @@
+.counter{
+    text-align: center;
+}
+.btns{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
